@@ -36,7 +36,7 @@ EduFace 是一个用于学校智能考勤管理的系统，主要利用计算机
 
 ### 视频演示
 
-您可以通过以下链接观看项目的演示视频： [演示视频](https://www.bilibili.com/video/BV1YesXeoERB/?spm_id_from=333.999.0.0)
+您可以通过以下链接观看项目的演示视频： [演示视频](https://www.bilibili.com/video/BV18c411o7Ka/?spm_id_from=333.999.0.0)
 
 ### 系统功能
 
