@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.one.view.MainInterface
+Class-Path: commons-beanutils-1.8.3.jar commons-codec-1.10.jar commons-c
+ ollections4-4.4.jar commons-compress-1.21.jar commons-logging-1.2.jar d
+ atepicker.jar jcommon-1.0.14.jar jfreechart-1.0.19.jar log4j-1.2.17.jar
+  mysql-connector-java-8.0.30.jar poi-4.1.2.jar poi-ooxml-4.1.2.jar poi-
+ ooxml-schemas-4.1.2.jar swingx-core-1.6.2.jar xmlbeans-3.1.0.jar opencv
+ -340.jar log4j-1.2.17.jar
+

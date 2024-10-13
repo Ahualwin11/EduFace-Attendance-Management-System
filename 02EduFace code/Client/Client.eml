@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../../../../face/install/java/test/Client"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="commons-beanutils-1.8.3" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Client/libs/commons-beanutils-1.8.3.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Client/libs/commons-codec-1.10.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Client/libs/commons-logging-1.2.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Client/libs/httpclient-4.5.5.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Client/libs/httpcore-4.4.9.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Client/libs/jackson-annotations-2.9.0.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Client/libs/jackson-core-2.9.0.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Client/libs/jackson-databind-2.9.0.jar!/"/>
+	</lib>
+	<lib name="mysql-connector-java-8.0.30.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Client/libs/mysql-connector-java-8.0.30.jar!/"/>
+	</lib>
+	<lib name="opencv-340.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/../../../../face/install/java/opencv-340.jar!/"/>
+	</lib>
+	<levels>
+		<level name="log4j-1.2.17" value="project"/>
+		<level name="jcommon-1.0.14" value="project"/>
+	</levels>
+</component>
